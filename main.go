@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/Nathan-Silva/infrastructure-golang-api/handlers"
-	"github.com/Nathan-Silva/infrastructure-golang-api/repository"
-	"github.com/Nathan-Silva/infrastructure-golang-api/routes"
-	"github.com/Nathan-Silva/infrastructure-golang-api/services"
+	"github.com/Nathan-Silva/pizzago-api-gitops/handlers"
+	"github.com/Nathan-Silva/pizzago-api-gitops/repository"
+	"github.com/Nathan-Silva/pizzago-api-gitops/routes"
+	"github.com/Nathan-Silva/pizzago-api-gitops/services"
 	"github.com/gin-gonic/gin"
 )
 

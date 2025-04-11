@@ -1,4 +1,4 @@
-module github.com/Nathan-Silva/infrastructure-golang-api
+module github.com/Nathan-Silva/pizzago-api-gitops
 
 go 1.24.2
 

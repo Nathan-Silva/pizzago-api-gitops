@@ -1,6 +1,6 @@
 package repository
 
-import "github.com/Nathan-Silva/infrastructure-golang-api/models"
+import "github.com/Nathan-Silva/pizzago-api-gitops/models"
 
 type PizzaRepository interface {
 	GetAll() []models.Pizza

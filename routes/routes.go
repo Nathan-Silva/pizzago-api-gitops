@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/Nathan-Silva/infrastructure-golang-api/handlers"
+	"github.com/Nathan-Silva/pizzago-api-gitops/handlers"
 	"github.com/gin-gonic/gin"
 )
 

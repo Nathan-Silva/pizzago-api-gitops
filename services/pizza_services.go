@@ -1,8 +1,8 @@
 package services
 
 import (
-	"github.com/Nathan-Silva/infrastructure-golang-api/models"
-	"github.com/Nathan-Silva/infrastructure-golang-api/repository"
+	"github.com/Nathan-Silva/pizzago-api-gitops/models"
+	"github.com/Nathan-Silva/pizzago-api-gitops/repository"
 )
 
 type PizzaService interface {

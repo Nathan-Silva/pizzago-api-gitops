@@ -3,8 +3,8 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/Nathan-Silva/infrastructure-golang-api/models"
-	"github.com/Nathan-Silva/infrastructure-golang-api/services"
+	"github.com/Nathan-Silva/pizzago-api-gitops/models"
+	"github.com/Nathan-Silva/pizzago-api-gitops/services"
 	"github.com/gin-gonic/gin"
 )
 
