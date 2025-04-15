@@ -8,4 +8,6 @@ import (
 func SetupRoutes(r *gin.Engine, pizzaHandler *handlers.PizzaHandler) {
 	r.GET("/pizzas", pizzaHandler.GetPizzas)
 	r.POST("/pizzas", pizzaHandler.PostPizza)
+	r.GET("/healthz", handlers.GetHealth)
+	r.GET("/readyz", handlers.GetHealth)
 }

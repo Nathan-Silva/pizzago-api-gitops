@@ -1,5 +1,0 @@
-apiVersion: v2
-name: pizzago-api-gitops
-description: Helm chart for Pizza API
-version: 1.0.0
-appVersion: "1.0.0"
